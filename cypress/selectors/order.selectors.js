@@ -1,0 +1,18 @@
+export const orderSelectors = {
+  placeOrderButton: 'button',
+  placeOrderText: 'Place Order',
+  modal: '#orderModal',
+  modalTitle: '#orderModalLabel',
+  totalLabel: '#orderModal #totalm',
+  nameInput: '#name',
+  countryInput: '#country',
+  cityInput: '#city',
+  cardInput: '#card',
+  monthInput: '#month',
+  yearInput: '#year',
+  purchaseButton: 'button',
+  purchaseText: 'Purchase',
+  confirmation: '.sweet-alert',
+  confirmationBody: '.lead',
+  confirmationOk: '.confirm',
+}
